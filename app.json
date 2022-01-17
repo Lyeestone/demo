@@ -1,15 +1,11 @@
 {
-    "name": "demo",
-    "description": "Deploy demo on Heroku.",
-    "keywords": ["demo"],
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "726117c3-6b8e-44bf-966a-617d24483ffe"
-        },
-        "AID": {
-            "description": "AlterID",
-            "value": "64"
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
         },
         "WSPATH": {
             "description": "WebSocket Path",
@@ -17,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/Lyeestone/demo",
+    "repository": "https://github.com/bclswl0827/v2ray-heroku",
     "stack": "container"
 }
